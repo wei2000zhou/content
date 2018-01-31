@@ -1,0 +1,58 @@
+.credit {
+	margin-top:10px;
+	color: rgb(204, 204, 204);
+}
+#foot_pax .credit a {
+	color:#ccc;	
+}
+
+#foot_pax {
+	width:980px;
+	height:296px;
+	background-color:#323232;
+	margin:0px auto;
+	background:url(../images/footer-shadow.jpg) repeat-x;
+}
+#foot_pax ul {
+	overflow:auto;
+	margin-left:50px;
+}
+#foot_pax ul li {
+	width:105px;
+	height:262px;
+	margin-left:20px;
+	margin-right:20px;
+	-margin-left:15px;
+	-margin-right:15px;
+	margin-top:34px;
+	float:left;
+	font-size:16px;
+	color:#242021;
+	font-family:"微软雅黑";
+	display:inline;
+}
+#foot_pax ul li ul {
+	list-style:none;
+	overflow:hidden;
+	margin-top:12px;
+	margin-left:0px;
+}
+#foot_pax ul li ul li {
+	display:inline;
+	height:22px;
+	padding:0px;
+	margin:0px;
+	background:url(../images/dian.jpg) no-repeat 0px 10px;
+	padding-left:8px;
+	line-height: 22px;
+}
+#foot_pax ul li ul li a {
+	font-family:"微软雅黑";
+	font-size:12px;
+	color:#898a8c;
+}
+
+.cp{
+font-size: 11px;
+color:rgb(153, 153, 153);
+}
